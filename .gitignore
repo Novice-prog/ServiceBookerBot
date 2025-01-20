@@ -1,0 +1,4 @@
+*venv/
+*.env
+*.idea/
+test-fortgbot-2312e65c9aec.json
