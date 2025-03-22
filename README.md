@@ -42,7 +42,7 @@ python bot.py
 ### Скриншоты работы бота:
 Ниже представлены скриншоты, показывающие процесс взаимодействия с ботом:
 
-1. ![Скриншот 1](https://github.com/user-attachments/assets/d0c0544f-e987-41dd-ac2a-5af6824ec6ed)
+
 2. ![Скриншот 2](https://github.com/user-attachments/assets/c0bf3771-7d4e-462a-82b9-70154deeb36d)
 3. ![Скриншот 3](https://github.com/user-attachments/assets/49d7a876-cd7a-4c4f-b518-88622e9b6183)
 4. ![Скриншот 4](https://github.com/user-attachments/assets/e5b119dd-41ce-4371-ba0c-5c8524700abf)
